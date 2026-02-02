@@ -1,4 +1,4 @@
-# T-Access-Fullstack (Windows Working Version)
+# Reactjs-NodeJS-ODBC 
 
 This is a **full-stack project** with a **Node.js backend** using Microsoft Access (ODBC) and a **React/Vite frontend**.  
 This version is configured to work on **Windows** due to ODBC and Node architecture requirements.
@@ -74,9 +74,14 @@ It fetches data from backend API.
 
 ⚠️ Notes
 
+
 Do NOT mix Node versions in a single terminal — backend must run on 32-bit Node, frontend on 64-bit Node.
 
 package-lock.json is not included due to cross-architecture compatibility.
 
 .gitignore excludes all node_modules and logs.
 ```
+
+Output:
+<img width="1920" height="1080" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/dee1e351-1642-4ec8-8223-96c61c1316f3" />
+
