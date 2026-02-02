@@ -7,6 +7,7 @@ This version is configured to work on **Windows** due to ODBC and Node architect
 
 ## 📁 Project Structure
 
+```text
 t-access-fullstack/
 ├── backend/ (Node 18, 32-bit, Access ODBC)
 ├── frontend/ (Node 22, 64-bit, Vite + React)
